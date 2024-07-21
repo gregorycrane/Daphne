@@ -4300,7 +4300,7 @@
 10	μοῦσ'	Μοῦσα	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	Ref=8.73
 11	ἄρ'	ἄρα	ADV	g--------	PartType=Ptcl	13	advmod	_	Ref=8.73
 12	ἀοιδὸν	ἀοιδός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	nsubj	_	Ref=8.73
-13	ἀνῆκεν	ἀνήκω	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Ref=8.73
+13	ἀνῆκεν	ἀνίημι	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	0	root	_	Ref=8.73
 14	ἀειδέμεναι	ἀείδω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	ccomp	_	Ref=8.73
 15	κλέα	κλέος	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	Ref=8.73
 16	ἀνδρῶν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	Ref=8.73|SpaceAfter=No
