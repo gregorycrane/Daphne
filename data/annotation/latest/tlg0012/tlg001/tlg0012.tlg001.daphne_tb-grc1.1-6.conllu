@@ -5742,27 +5742,25 @@
 7	·	·	PUNCT	u--------	_	1	punct	_	Ref=1.546
 
 # sent_id = 2274419
-# text = ἀλλ’ ὃν μέν κ’ ἐπιεικὲς ἀκουέμεν οὔ τις ἔπειτα οὔ τε θεῶν πρότερος τὸν εἴσεται οὔ τ’ ἀνθρώπων·
+# text = ἀλλ’ ὃν μέν κ’ ἐπιεικὲς ἀκουέμεν οὔ τις ἔπειτα οὔτε θεῶν πρότερος τὸν εἴσεται οὔτ’ ἀνθρώπων·
 # Speaker = Zeus
-1	ἀλλ’	ἀλλά	ADV	d--------	_	15	advmod	15:advmod	Ref=1.547
+1	ἀλλ’	ἀλλά	ADV	d--------	_	14	advmod	14:advmod	Ref=1.547
 2	ὃν	ὅς	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	6	obj	6:obj	Ref=1.547
-3	μέν	μέν	ADV	g--------	PartType=Ptcl	15	advmod	15:advmod	Ref=1.547
+3	μέν	μέν	ADV	g--------	PartType=Ptcl	14	advmod	14:advmod	Ref=1.547
 4	κ’	ἄν	ADV	g--------	PartType=Ptcl	5	advmod	5:advmod	Ref=1.547
-5	ἐπιεικὲς	ἐπιεικής	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	14	nmod	14:nmod	Ref=1.547
+5	ἐπιεικὲς	ἐπιεικής	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nmod	13:nmod	Ref=1.547
 6	ἀκουέμεν	ἀκούω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Ref=1.547
 7	οὔ	οὐ	ADV	d--------	_	8	advmod:neg	8:advmod	Ref=1.547
-8	τις	τις	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	15	nsubj	15:nsubj	Ref=1.547
-9	ἔπειτα	ἔπειτα	ADV	d--------	_	15	advmod	15:advmod	Ref=1.547
-10	οὔ	οὐ	ADV	d--------	_	12	discourse	12:discourse	Ref=1.548
-11	τε	τε	ADV	c--------	_	10	advmod	10:advmod	Ref=1.548
-12	θεῶν	θεός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	Ref=1.548
-13	πρότερος	πρότερος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	acl:compl	8:acl	Ref=1.548
-14	τὸν	ὁ	PRON	p-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	obj	15:obj	Ref=1.548
-15	εἴσεται	οἶδα	VERB	v3sfim---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	0	root	0:root	Ref=1.548
-16	οὔ	οὐ	ADV	d--------	_	18	cc	18:cc	Ref=1.548
-17	τ’	τε	ADV	c--------	_	12	advmod	12:advmod	Ref=1.548
-18	ἀνθρώπων	ἄνθρωπος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	12	conj	12:conj	Ref=1.548|SpaceAfter=No
-19	·	·	PUNCT	u--------	_	15	punct	0:punct	Ref=1.548
+8	τις	τις	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	14:nsubj	Ref=1.547
+9	ἔπειτα	ἔπειτα	ADV	d--------	_	14	advmod	14:advmod	Ref=1.547
+10	οὔτε	οὐτε	ADV	d--------	_	11	cc	11:discourse	Ref=1.548
+11	θεῶν	θεός	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	Ref=1.548
+12	πρότερος	πρότερος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	acl:compl	8:acl	Ref=1.548
+13	τὸν	ὁ	PRON	p-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	obj	14:obj	Ref=1.548
+14	εἴσεται	οἶδα	VERB	v3sfim---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Mid	0	root	0:root	Ref=1.548
+15	οὔτ’	οὐτε	ADV	c--------	_	16	cc	11:advmod	Ref=1.548
+16	ἀνθρώπων	ἄνθρωπος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	11	conj	11:conj	Ref=1.548|SpaceAfter=No
+17	·	·	PUNCT	u--------	_	14	punct	0:punct	Ref=1.548
 
 # sent_id = 2274420
 # text = ὃν δέ κ’ ἐγὼν ἀπάνευθε θεῶν ἐθέλωμι νοῆσαι μή τι σὺ ταῦτα ἕκαστα διείρεο μηδὲ μετάλλα.
