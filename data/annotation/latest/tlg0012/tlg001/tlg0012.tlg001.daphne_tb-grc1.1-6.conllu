@@ -5806,28 +5806,26 @@
 7	;	;	PUNCT	u--------	_	6	punct	_	Ref=1.552
 
 # sent_id = 2274423
-# text = καὶ λίην σε πάρος γ’ οὔ τ’ εἴρομαι οὔ τε μεταλλῶ, ἀλλὰ μάλ’ εὔκηλος τὰ φράζεαι ἅσσ’ ἐθέλῃσθα.
+# text = καὶ λίην σε πάρος γ’ οὔτ’ εἴρομαι οὔτε μεταλλῶ, ἀλλὰ μάλ’ εὔκηλος τὰ φράζεαι ἅσσ’ ἐθέλῃσθα.
 # Speaker = Hera
 1	καὶ	καί	ADV	d--------	_	2	advmod	_	Ref=1.553
-2	λίην	λίαν	ADV	d--------	_	8	advmod	_	Ref=1.553
-3	σε	σύ	PRON	p-s----a-	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	Ref=1.553
-4	πάρος	πάρος	ADV	d--------	_	8	advmod	_	Ref=1.553
+2	λίην	λίαν	ADV	d--------	_	7	advmod	_	Ref=1.553
+3	σε	σύ	PRON	p-s----a-	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	Ref=1.553
+4	πάρος	πάρος	ADV	d--------	_	7	advmod	_	Ref=1.553
 5	γ’	γε	ADV	g--------	PartType=Ptcl	4	advmod	_	Ref=1.553
-6	οὔ	οὐ	ADV	d--------	_	8	discourse	_	Ref=1.553
-7	τ’	τε	ADV	c--------	_	6	advmod	_	Ref=1.553
-8	εἴρομαι	ἔρομαι	VERB	v1spie---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=MidPass	0	root	_	Ref=1.553
-9	οὔ	οὐ	ADV	d--------	_	11	cc	_	Ref=1.553
-10	τε	τε	ADV	c--------	_	8	advmod	_	Ref=1.553
-11	μεταλλῶ	μεταλλάω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	8	conj	_	Ref=1.553|SpaceAfter=No
-12	,	,	PUNCT	u--------	_	17	punct	_	Ref=1.553
-13	ἀλλὰ	ἀλλά	CCONJ	c--------	_	17	cc	_	Ref=1.554
-14	μάλ’	μάλα	ADV	d--------	_	15	advmod	_	Ref=1.554
-15	εὔκηλος	εὔκηλος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	advcl:compl	_	Ref=1.554
-16	τὰ	ὁ	PRON	p-p---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	obj	_	Ref=1.554
-17	φράζεαι	φράζω	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	8	conj	_	Ref=1.554
-18	ἅσσ’	ὅστις	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	19	obj	_	Ref=1.554
-19	ἐθέλῃσθα	ἐθέλω	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	16	acl:relcl	_	Ref=1.554|SpaceAfter=No
-20	.	.	PUNCT	u--------	_	8	punct	_	Ref=1.554
+6	οὔτ’	οὐτε	ADV	d--------	_	7	cc	_	Ref=1.553
+7	εἴρομαι	ἔρομαι	VERB	v1spie---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=MidPass	0	root	_	Ref=1.553
+8	οὔτε	οὐτε	ADV	c--------	_	9	cc	_	Ref=1.553
+9	μεταλλῶ	μεταλλάω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	7	conj	_	Ref=1.553|SpaceAfter=No
+10	,	,	PUNCT	u--------	_	15	punct	_	Ref=1.553
+11	ἀλλὰ	ἀλλά	CCONJ	c--------	_	15	cc	_	Ref=1.554
+12	μάλ’	μάλα	ADV	d--------	_	13	advmod	_	Ref=1.554
+13	εὔκηλος	εὔκηλος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	advcl:compl	_	Ref=1.554
+14	τὰ	ὁ	PRON	p-p---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	obj	_	Ref=1.554
+15	φράζεαι	φράζω	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	7	conj	_	Ref=1.554
+16	ἅσσ’	ὅστις	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	17	obj	_	Ref=1.554
+17	ἐθέλῃσθα	ἐθέλω	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	14	acl:relcl	_	Ref=1.554|SpaceAfter=No
+18	.	.	PUNCT	u--------	_	7	punct	_	Ref=1.554
 
 # sent_id = 2274424
 # text = νῦν δ’ αἰνῶς δείδοικα κατὰ φρένα μή σε παρείπῃ ἀργυρόπεζα Θέτις θυγάτηρ ἁλίοιο γέροντος·
