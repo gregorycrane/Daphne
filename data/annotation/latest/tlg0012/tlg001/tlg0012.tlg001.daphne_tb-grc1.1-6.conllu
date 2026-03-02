@@ -5781,7 +5781,7 @@
 12	ταῦτα	οὗτος	PRON	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	14	obj	_	Ref=1.550
 13	ἕκαστα	ἕκαστος	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	12	det	_	Ref=1.550
 14	διείρεο	διείρομαι	VERB	v2spme---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	0	root	_	Ref=1.550
-15	μηδὲ	μηδέ	CCONJ	c--------	_	16	cc	_	Ref=1.550|SpaceAfter=No
+15	μηδὲ	μηδέ	CCONJ	c--------	_	16	cc	_	Ref=1.550
 16	μετάλλα	μεταλλάω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	14	conj	_	Ref=1.550|SpaceAfter=No
 17	.	.	PUNCT	u--------	_	14	punct	_	Ref=1.550
 
