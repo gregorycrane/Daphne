@@ -16813,7 +16813,7 @@
 18	δ’	δέ	CCONJ	g--------	PartType=Ptcl	23	cc	_	Ref=3.218
 19	οὔτ’	οὔτε	CCONJ	c--------	_	20	cc	_	Ref=3.218
 20	ὀπίσω	ὀπίσω	ADV	d--------	_	23	advmod	_	Ref=3.218
-21	οὔτε	οὔτετε	ADV	d--------	_	22	advmod:neg	_	Ref=3.218
+21	οὔτε	οὔτε	CCONJ	c--------	_	22	advmod:neg	_	Ref=3.218
 22	προπρηνὲς	προπρηνής	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	20	conj	_	Ref=3.218
 23	ἐνώμα	νωμάω	VERB	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	7	conj	_	Ref=3.218|SpaceAfter=No
 24	,	,	PUNCT	u--------	_	27	punct	_	Ref=3.218
