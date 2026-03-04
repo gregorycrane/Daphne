@@ -27957,7 +27957,7 @@
 19	·	·	PUNCT	u--------	_	8	punct	_	Ref=5.330
 
 # sent_id = 2275606
-# text = ὃ δὲ Κύπριν ἐπῴχετο νηλέϊ χαλκῷ γιγνώσκων ὅ τ’ ἄναλκις ἔην θεός, οὐδὲ θεάων τάων αἵ τ’ ἀνδρῶν πόλεμον κάτα κοιρανέουσιν, οὔ τ’ ἄρ’ Ἀθηναίη οὔ τε πτολίπορθος Ἐνυώ.
+# text = ὃ δὲ Κύπριν ἐπῴχετο νηλέϊ χαλκῷ γιγνώσκων ὅ τ’ ἄναλκις ἔην θεός, οὐδὲ θεάων τάων αἵ τ’ ἀνδρῶν πόλεμον κάτα κοιρανέουσιν, οὔ τ’ ἄρ’ Ἀθηναίη οὔτε πτολίπορθος Ἐνυώ.
 1	ὃ	ὁ	PRON	p-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	4:nsubj	Ref=5.330
 2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	4	cc	4:cc	Ref=5.330
 3	Κύπριν	Κύπρις	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	Ref=5.330
@@ -27971,7 +27971,7 @@
 11	ἔην	εἰμί	AUX	v3siia---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=Act	12	cop	12:cop	Ref=5.331
 12	θεός	θεός	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	ccomp	7:ccomp	Ref=5.331|SpaceAfter=No
 13	,	,	PUNCT	u--------	_	15	punct	16:punct	Ref=5.331
-14	οὐδὲ	οὐδέ	CCONJ	c--------	_	15	cc	16:advmod	Ref=5.331|SpaceAfter=No
+14	οὐδὲ	οὐδέ	CCONJ	c--------	_	15	cc	16:advmod	Ref=5.331
 15	θεάων	θεά	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	12	conj	12:conj	Ref=5.331
 16	τάων	ὁ	DET	l-p---fg-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	16:det	Ref=5.332
 17	αἵ	ὅς	PRON	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	22	nsubj	23:nsubj	Ref=5.332
@@ -27985,11 +27985,10 @@
 25	τ’	τε	CCONJ	c--------	_	27	cc	28:cc	Ref=5.333
 26	ἄρ’	ἄρα	ADV	g--------	PartType=Ptcl	27	advmod	28:advmod	Ref=5.333
 27	Ἀθηναίη	Ἀθήνη	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	conj	12:conj	Ref=5.333
-28	οὔ	οὔτε	ADV	d--------	_	31	advmod:neg	32:advmod	Ref=5.333
-29	τε	τε	CCONJ	c--------	_	31	cc	32:cc	Ref=5.333
-30	πτολίπορθος	πτολίπορθος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	31	amod	32:amod	Ref=5.333
-31	Ἐνυώ	Ἐνυώ	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	27	conj	28:conj	Ref=5.333|SpaceAfter=No
-32	.	.	PUNCT	u--------	_	4	punct	0:punct	Ref=5.333
+28	οὔτε	οὔτε	CCONJ	c--------	_	30	advmod:neg	31:advmod	Ref=5.333
+29	πτολίπορθος	πτολίπορθος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	30	amod	31:amod	Ref=5.333
+30	Ἐνυώ	Ἐνυώ	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	27	conj	28:conj	Ref=5.333|SpaceAfter=No
+31	.	.	PUNCT	u--------	_	4	punct	0:punct	Ref=5.333
 
 # sent_id = 2275607
 # text = ἀλλ’ ὅτε δή ῥ’ ἐκίχανε πολὺν καθ’ ὅμιλον ὀπάζων, ἔνθ’ ἐπορεξάμενος μεγαθύμου Τυδέος υἱὸς ἄκρην οὔτασε χεῖρα μετάλμενος ὀξέϊ δουρὶ ἀβληχρήν·
