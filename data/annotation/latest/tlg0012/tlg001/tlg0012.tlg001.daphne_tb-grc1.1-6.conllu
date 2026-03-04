@@ -29862,7 +29862,7 @@
 7	Τρώων	Τρώς	PROPN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	Ref=5.521
 8	ὑπεδείδισαν	ὑποδείδω	VERB	v3plia---	Mood=Ind|Number=Plur|Person=3|Voice=Act	0	root	0:root	Ref=5.521
 8.1	E9.1	_	_	_	_	_	_	8:conj	_
-9	οὔτε	οὔτετε	ADV	d--------	_	10	advmod:neg	8.1:advmod	Ref=5.521
+9	οὔτε	οὔτε	CCONJ	c--------	_	10	cc	8.1:advmod	Ref=5.521
 10	ἰωκάς	ἰωκή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	8	conj	8.1:obj	Ref=5.521|SpaceAfter=No
 11	,	,	PUNCT	u--------	_	13	punct	13:punct	Ref=5.521
 12	ἀλλ’	ἀλλά	CCONJ	c--------	_	13	cc	13:cc	Ref=5.522
