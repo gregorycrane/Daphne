@@ -22777,20 +22777,19 @@
 7	·	·	PUNCT	u--------	_	5	punct	_	Ref=4.357
 
 # sent_id = 2275323
-# text = διογενὲς Λαερτιάδη πολυμήχαν’ Ὀδυσσεῦ οὔτέ σε νεικείω περιώσιον οὔ τε κελεύω·
+# text = διογενὲς Λαερτιάδη πολυμήχαν’ Ὀδυσσεῦ οὔτέ σε νεικείω περιώσιον οὔτε κελεύω·
 # Speaker = Agamemnon
 1	διογενὲς	διογενής	ADJ	a-s---nv-	Case=Voc|Gender=Neut|Number=Sing	2	amod	2:amod	Ref=4.358
 2	Λαερτιάδη	Λαερτιάδης	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	7	vocative	7:vocative	Ref=4.358
 3	πολυμήχαν’	πολυμήχανος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	4	amod	4:amod	Ref=4.358
 4	Ὀδυσσεῦ	Ὀδυσσεύς	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	2	appos	2:appos	Ref=4.358
-5	οὔτέ	οὔτε	ADV	d--------	_	7	advmod	7:advmod	Ref=4.359
+5	οὔτέ	οὔτε	CCONJ	d--------	_	7	advmod	7:advmod	Ref=4.359
 6	σε	σύ	PRON	p-s----a-	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	7:obj	Ref=4.359
 7	νεικείω	νεικέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	Ref=4.359
 8	περιώσιον	περιώσιος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	obl	7:obl	Ref=4.359
-9	οὔ	οὔτε	ADV	d--------	_	11	advmod:neg	11:advmod	Ref=4.359
-10	τε	τε	CCONJ	c--------	_	11	cc	11:cc	Ref=4.359
-11	κελεύω	κελεύω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	7	conj	7:conj	Ref=4.359|SpaceAfter=No
-12	·	·	PUNCT	u--------	_	7	punct	0:punct	Ref=4.359
+9	οὔτε	οὔτε	CCONJ	c--------	_	10	cc	10:advmod	Ref=4.359
+10	κελεύω	κελεύω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	7	conj	7:conj	Ref=4.359|SpaceAfter=No
+11	·	·	PUNCT	u--------	_	7	punct	0:punct	Ref=4.359
 
 # sent_id = 2275324
 # text = οἶδα γὰρ ὥς τοι θυμὸς ἐνὶ στήθεσσι φίλοισιν ἤπια δήνεα οἶδε·
