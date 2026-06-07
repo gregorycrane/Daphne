@@ -2,6 +2,8 @@
 
 ## Source
 
+### Treebank annotation
+
 The original data were taken from Perseus [Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/), v.2.1.
 
 The Homeric poems were originally annotated by:
@@ -33,6 +35,10 @@ The Homeric poems were originally annotated by:
 
 See the original XML files for more information on the annotators. If you spot any
 error or missing information, please report everything in the [issue](https://github.com/francescomambrini/Daphne/issues) section.
+
+### Metrical data
+
+The data registered in the `Prosody` misc column comes from D. Chamberlain's [Hypotactic](https://hypotactic.com/) project. The files from [this](https://github.com/Urdatorn/hypotactic/tree/main) GitHub repository were used as sources.
 
 ## Conversion and revision
 
