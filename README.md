@@ -19,6 +19,10 @@ The treebanks were converted from the original AGLDT-like formalism to
 of my rule-based converted [tb2ud](https://github.com/francescomambrini/tb2ud).
 The UD conversion is constantly revised and reviewed by hand.
 
+## Sources
+
+Most of the treebanks now are based on existing annotations that I converted to UD and am gradually revising. For the attribution, see the Readme files in each subfolder of the [data](https://github.com/francescomambrini/Daphne/tree/master/data/annotation/latest) directory.
+
 ## What kind of modification were introduced?
 
 At first, I started Daphne because I wanted to bring the annotation in line with a
