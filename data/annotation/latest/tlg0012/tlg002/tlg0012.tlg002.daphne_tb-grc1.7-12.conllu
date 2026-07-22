@@ -1374,7 +1374,7 @@
 19	.	.	PUNCT	u--------	_	1	punct	_	Ref=7.138
 
 # sent_id = 2187291
-# text = αὐτὰρ ὁ βῆ διὰ δῶμα πολύτλας δῖος Ὀδυσσεὺς πολλὴν ἠέρ' ἔων, ἥν οἱ περίχευεν Ἀθήνη, ὄφρ' ἵκετ' Ἀρήτην τε καὶ Ἀλκίνοον βασιλῆα.
+# text = αὐτὰρ ὁ βῆ διὰ δῶμα πολύτλας δῖος Ὀδυσσεὺς πολλὴν ἠέρ’ ἔχων, ἥν οἱ περίχευεν Ἀθήνη, ὄφρ’ ἵκετ’ Ἀρήτην τε καὶ Ἀλκίνοον βασιλῆα.
 1	αὐτὰρ	ἀτάρ	ADV	g--------	PartType=Ptcl	3	advmod	3:advmod	Ref=7.139
 2	ὁ	ὁ	PRON	p-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	3:nsubj	Ref=7.139
 3	βῆ	βαίνω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	Ref=7.139
@@ -1384,8 +1384,8 @@
 7	δῖος	δῖος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	amod	8:amod	Ref=7.139
 8	Ὀδυσσεὺς	Ὀδυσσεύς	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	appos	2:appos	Ref=7.139
 9	πολλὴν	πολύς	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	amod	10:amod	Ref=7.140
-10	ἠέρ'	ἀήρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obj	11:obj	Ref=7.140
-11	ἔων	ἔχω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	3:advcl	Ref=7.140|SpaceAfter=No
+10	ἠέρ’	ἀήρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obj	11:obj	Ref=7.140
+11	ἔχων	ἔχω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	3:advcl	Ref=7.140|SpaceAfter=No
 12	,	,	PUNCT	u--------	_	15	punct	15:punct	Ref=7.140
 13	ἥν	ὅς	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	15	obj	15:obj	Ref=7.140
 14	οἱ	ἕ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	15	iobj	15:iobj	Ref=7.140
@@ -14657,8 +14657,8 @@
 8	.	.	PUNCT	u--------	_	4	punct	_	Ref=9.479
 
 # sent_id = 2187983
-# text = '" ὣς ἐφάμην, ὁ δ' ἔπειτα χολώσατο κηρόθι μᾶλλον, ἧκε δ' ἀπορρήξας κορυφὴν ὄρεος μεγάλοιο, κὰδ δ' ἔβαλε προπάροιθε νεὸς κυανοπρῴροιο τυτθόν, ἐδεύησεν δ' οἰήιον ἄρκον ἱκέσθαι, ἐκλύσθη δὲ θάλασσα κατερχομένης ὑπὸ πέτρης·
-1	'	̓	PUNCT	u--------	_	4	punct	_	Ref=9.480|SpaceAfter=No
+# text = ’" ὣς ἐφάμην, ὁ δ’ ἔπειτα χολώσατο κηρόθι μᾶλλον, ἧκε δ’ ἀπορρήξας κορυφὴν ὄρεος μεγάλοιο, κὰδ δ’ ἔβαλε προπάροιθε νεὸς κυανοπρῴροιο τυτθόν, ἐδεύησεν δ’ οἰήιον ἄκρον ἱκέσθαι, ἐκλύσθη δὲ θάλασσα κατερχομένης ὑπὸ πέτρης·
+1	’	̓	PUNCT	u--------	_	4	punct	_	Ref=9.480|SpaceAfter=No
 2	"	"	PUNCT	u--------	_	4	punct	_	Ref=9.480
 3	ὣς	ὡς	ADV	d--------	_	4	advmod	_	Ref=9.480
 4	ἐφάμην	φημί	VERB	v1siie---	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Voice=MidPass	0	root	_	Ref=9.480|SpaceAfter=No

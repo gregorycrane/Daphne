@@ -390,7 +390,7 @@
 # sent_id = 2274122
 # sentannotators <primary>millermo</primary> <primary>tovahk</primary> <secondary>nicanor</secondary>
 # Speaker = Chryses
-# text = κλῦθί μευ ἀργυρότοξ', ὃς Χρύσην ἀμφιβέβηκας Κίλλάν τε ζαθέην Τενέδοιό τε ἶφι ἀνάσσεις, Σμινθεῦ εἴ ποτέ τοι χαρίεντ' ἐπὶ νηὸν ἔρεψα, ἢ εἰ δή ποτέ τοι κατὰ πίονα μηρί' ἔκηα ταύρων ἠδ' αἰγῶν, τὸ δέ μοι κρήηνον ἐέλδωρ·
+# text = κλῦθί μευ ἀργυρότοξ', ὃς Χρύσην ἀμφιβέβηκας Κίλλαν τε ζαθέην Τενέδοιό τε ἶφι ἀνάσσεις, Σμινθεῦ εἴ ποτέ τοι χαρίεντ' ἐπὶ νηὸν ἔρεψα, ἢ εἰ δή ποτέ τοι κατὰ πίονα μηρί' ἔκηα ταύρων ἠδ' αἰγῶν, τὸ δέ μοι κρήηνον ἐέλδωρ·
 1	κλῦθί	κλύω	VERB	v2sama---	Mood=Imp|Number=Sing|Person=2|Voice=Act	0	root	_	Ref=1.37
 2	μευ	ἐγώ	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj	_	Ref=1.37
 3	ἀργυρότοξ'	ἀργυρότοξος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	Ref=1.37|SpaceAfter=No
@@ -398,7 +398,7 @@
 5	ὃς	ὅς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=1.37
 6	Χρύσην	Χρύση	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Ref=1.37
 7	ἀμφιβέβηκας	ἀμφιβαίνω	VERB	v2sria---	Mood=Ind|Number=Sing|Person=2|Voice=Act	3	acl:relcl	_	Ref=1.37
-8	Κίλλάν	Κίλλα	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	Ref=1.38
+8	Κίλλαν	Κίλλα	PROPN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	Ref=1.38
 9	τε	τε	CCONJ	c--------	_	8	cc	_	Ref=1.38
 10	ζαθέην	ζάθεος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	Ref=1.38
 11	Τενέδοιό	Τένεδος	PROPN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	obj	_	Ref=1.38
