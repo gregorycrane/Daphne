@@ -769,7 +769,7 @@
 9	·	·	PUNCT	u--------	_	5	punct	_	Ref=13.76
 
 # sent_id = 2188978
-# text = τοὶ δὲ καθῖζον ἐπὶ κληῗσιν ἕκαστοι κόσμῳ, πεῖσμα δ' ἔλυσαν ἀπὸ τρητοῖο λίθοις.
+# text = τοὶ δὲ καθῖζον ἐπὶ κληῗσιν ἕκαστοι κόσμῳ, πεῖσμα δ' ἔλυσαν ἀπὸ τρητοῖο λίθοιο.
 1	τοὶ	ὁ	PRON	p-p---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Ref=13.76
 2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	3	cc	_	Ref=13.76
 3	καθῖζον	καθίζω	VERB	v3piia---	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Voice=Act	0	root	_	Ref=13.76
@@ -783,7 +783,7 @@
 11	ἔλυσαν	λύω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	3	conj	_	Ref=13.77
 12	ἀπὸ	ἀπό	ADP	r--------	_	14	case	_	Ref=13.77
 13	τρητοῖο	τρητός	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	Ref=13.77
-14	λίθοις	λίθος	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	11	iobj	_	Ref=13.77|SpaceAfter=No
+14	λίθοιο	λίθος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	11	iobj	_	Ref=13.77|SpaceAfter=No
 15	.	.	PUNCT	u--------	_	3	punct	_	Ref=13.77
 
 # sent_id = 2188979
@@ -6886,7 +6886,7 @@
 1	τοὶ	ὁ	PRON	p-p---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nsubj	4:nsubj	Ref=14.208
 2	δὲ	δέ	CCONJ	g--------	PartType=Ptcl	4	cc	4:cc	Ref=14.208
 3	ζωὴν	ζωή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	Ref=14.208
-4	ἐδύσαντο	δύω	VERB	v3paim---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Mid	0	root	0:root	Ref=14.208
+4	ἐδάσαντο	δατέομαι	VERB	v3paim---	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Mid	0	root	0:root	Ref=14.208
 5	παῖδες	παῖς	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	appos	1:appos	Ref=14.209
 6	ὑπέρθυμοι	ὑπέρθυμος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	amod	5:amod	Ref=14.209
 7	καὶ	καί	CCONJ	c--------	_	10	cc	10:cc	Ref=14.209
@@ -14084,7 +14084,7 @@
 44	"	"	PUNCT	u--------	_	11	punct	11:punct	Ref=15.350
 
 # sent_id = 2189675
-# text = τὸν δ' αὖτε προσέειπε συβώτης, ὄρχαμος ἀνδρὼν·
+# text = τὸν δ' αὖτε προσέειπε συβώτης, ὄρχαμος ἀνδρῶν·
 1	τὸν	ὁ	PRON	p-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	Ref=15.351
 2	δ'	δέ	CCONJ	g--------	PartType=Ptcl	4	cc	_	Ref=15.351
 3	αὖτε	αὖτε	ADV	d--------	_	4	advmod	_	Ref=15.351
@@ -14092,7 +14092,7 @@
 5	συβώτης	συβώτης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=15.351|SpaceAfter=No
 6	,	,	PUNCT	u--------	_	7	punct	_	Ref=15.351
 7	ὄρχαμος	ὄρχαμος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	Ref=15.351
-8	ἀνδρὼν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Ref=15.351|SpaceAfter=No
+8	ἀνδρῶν	ἀνήρ	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Ref=15.351|SpaceAfter=No
 9	·	·	PUNCT	u--------	_	4	punct	_	Ref=15.351
 
 # sent_id = 2189676
@@ -23878,7 +23878,7 @@
 
 # sent_id = 2190196
 # Speaker = Melanthius
-# text = " νῦν μὲν δὴ μάλα πάγχυ κακὸς κακὸν ἡγηλάζει, ὡς αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖν.
+# text = " νῦν μὲν δὴ μάλα πάγχυ κακὸς κακὸν ἡγηλάζει, ὡς αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖον.
 1	"	"	PUNCT	u--------	_	9	punct	9:punct	Ref=17.217
 2	νῦν	νῦν	ADV	d--------	_	9	advmod	9:advmod	Ref=17.217
 3	μὲν	μέν	ADV	g--------	PartType=Ptcl	9	advmod	9:advmod	Ref=17.217
@@ -23898,7 +23898,7 @@
 16.1	E16.1	_	_	_	_	_	_	15:advmod	_
 17	ὡς	ὡς	ADV	d--------	_	19	advmod	16.1:advmod	Ref=17.218
 18	τὸν	ὁ	PRON	l--------	Definite=Def|PronType=Art	19	nmod	19:det	Ref=17.218
-19	ὁμοῖν	ὁμός	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	15	advmod	16.1:obj	Ref=17.218|SpaceAfter=No
+19	ὁμοῖον	ὁμός	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	15	advmod	16.1:obj	Ref=17.218|SpaceAfter=No
 20	.	.	PUNCT	u--------	_	9	punct	0:punct	Ref=17.218
 
 # sent_id = 2190197

@@ -5390,7 +5390,7 @@
 22	ἀτιμάζουσι	ἀτιμάζω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	17	acl:relcl	_	Ref=19.498
 23	καὶ	καί	CCONJ	c--------	_	25	cc	_	Ref=19.498
 24	αἳ	ὅς	PRON	p-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	25	nsubj	_	Ref=19.498
-25	νηλεῖτις	νηλιτής	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	22	conj	_	Ref=19.498
+25	νηλείτιδές	νηλιτής	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	22	conj	_	Ref=19.498
 26	εἰσι	εἰμί	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	25	cop	_	Ref=19.498|SpaceAfter=No
 27	.	.	PUNCT	u--------	_	14	punct	_	Ref=19.498
 28	"	"	PUNCT	u--------	_	14	punct	_	Ref=19.498
@@ -12370,7 +12370,7 @@
 # Speaker = Antinous
 # text = " λειῶδες, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων, δεινόν τ' ἀργαλέον τε, - νεμεσσῶμαι δέ τ' ἀκούων - εἰ δὴ τοῦτό γε τόξον ἀριστῆας κεκαδήσει θυμοῦ καὶ ψυχῆς, ἐπεὶ οὐ δύνασαι σὺ τανύσσαι.
 1	"	"	PUNCT	u--------	_	7	punct	_	Ref=21.168
-2	λειῶδες	λειώδης	ADJ	a-s---nv-	Case=Voc|Gender=Neut|Number=Sing	7	vocative	_	Ref=21.168|SpaceAfter=No
+2	Λειῶδες	Λειώδης	ADJ	a-s---nv-	Case=Voc|Gender=Neut|Number=Sing	7	vocative	_	Ref=21.168|SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	Ref=21.168
 4	ποῖόν	ποῖος	DET	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	det	_	Ref=21.168
 5	σε	σύ	PRON	p-s----a-	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	Ref=21.168
@@ -18498,8 +18498,8 @@
 14	.	.	PUNCT	u--------	_	4	punct	_	Ref=22.309
 
 # sent_id = 2191702
-# text = λειώδης δ' Ὀδυσῆος ἐπεσσύμενος λάβε γούνων, καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·
-1	λειώδης	Λειώδης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=22.310
+# text = Λειώδης δ' Ὀδυσῆος ἐπεσσύμενος λάβε γούνων, καί μιν λισσόμενος ἔπεα πτερόεντα προσηύδα·
+1	Λειώδης	Λειώδης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=22.310
 2	δ'	δέ	CCONJ	g--------	PartType=Ptcl	5	cc	_	Ref=22.310
 3	Ὀδυσῆος	Ὀδυσσεύς	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=22.310
 4	ἐπεσσύμενος	ἐπισεύω	VERB	v-srpemn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=MidPass	5	advcl	_	Ref=22.310
@@ -21539,7 +21539,7 @@
 6	ἔφατ'	φημί	VERB	v3siie---	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Voice=MidPass	3	conj	_	Ref=23.96
 7	ἔκ	ἐκ	ADV	r--------	_	9	compound:prt	_	Ref=23.96
 8	τ'	τε	CCONJ	c--------	_	9	cc	_	Ref=23.96
-9	ὀνόμαξε	ὀνομάζω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	Ref=23.96|SpaceAfter=No
+9	ὀνόμαζε	ὀνομάζω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	Ref=23.96|SpaceAfter=No
 10	·	·	PUNCT	u--------	_	3	punct	_	Ref=23.96
 
 # sent_id = 2191867
@@ -23495,7 +23495,7 @@
 
 # sent_id = 2191960
 # Speaker = Odysseus
-# text = θάνατος δέ μοι ἐξ ἁλὸς αὐτῷ ἀβληχρὸς μάλα τοῖος ἐλεύσεται, ὅς κέ με πέφνῃ γήρας ὕπο λιπαρῷ ἀρημένον·
+# text = θάνατος δέ μοι ἐξ ἁλὸς αὐτῷ ἀβληχρὸς μάλα τοῖος ἐλεύσεται, ὅς κέ με πέφνῃ γῆρας ὕπο λιπαρῷ ἀρημένον·
 1	θάνατος	θάνατος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=23.281
 2	δέ	δέ	CCONJ	g--------	PartType=Ptcl	10	cc	_	Ref=23.281
 3	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obj	_	Ref=23.281
@@ -23511,7 +23511,7 @@
 13	κέ	ἄν	ADV	g--------	PartType=Ptcl	15	advmod	_	Ref=23.282
 14	με	ἐγώ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	obj	_	Ref=23.282
 15	πέφνῃ	θείνω	VERB	v3sasa---	Mood=Sub|Number=Sing|Person=3|Voice=Act	1	acl:relcl	_	Ref=23.282
-16	γήρας	γῆρας	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	obl	_	Ref=23.283
+16	γῆρας	γῆρας	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	19	obl	_	Ref=23.283
 17	ὕπο	ὑπό	ADP	r--------	_	16	case	_	Ref=23.283
 18	λιπαρῷ	λιπαρός	ADJ	a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	16	amod	_	Ref=23.283
 19	ἀρημένον	ἀράω	VERB	v-srpema-	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=MidPass	14	acl:compl	_	Ref=23.283|SpaceAfter=No
