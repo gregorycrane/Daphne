@@ -1,0 +1,363 @@
+Total real tokens in treebank: 6897
+Total tokens in XML source:    6857
+Rows with unexpected column count (pre-existing, not fixed here): 92
+
+=== FORM corrections applied: 216 ===
+  sent#0 tok#7: 'Δί̓' -> 'Δίʼ'
+  sent#1 tok#12: 'τ̓' -> 'τʼ'
+  sent#2 tok#21: 'τ̓' -> 'τʼ'
+  sent#12 tok#18: 'τ̓' -> 'τʼ'
+  sent#13 tok#8: 'σπεύδοντ̓' -> 'σπεύδοντʼ'
+  sent#16 tok#19: 'νείκἐ' -> 'νείκεʼ'
+  sent#16 tok#20: 'ὀπιπεύοντ̓' -> 'ὀπιπεύοντʼ'
+  sent#17 tok#3: 'τ̓' -> 'τʼ'
+  sent#17 tok#7: 'τ̓' -> 'τʼ'
+  sent#20 tok#9: 'τ̓' -> 'τʼ'
+  sent#21 tok#5: 'ἐδασσάμεθ̓' -> 'ἐδασσάμεθʼ'
+  sent#29 tok#7: 'ἔκλεψ̓' -> 'ἔκλεψʼ'
+  sent#31 tok#17: 'τ̓' -> 'τʼ'
+  sent#33 tok#2: 'ἔφατ̓' -> 'ἔφατʼ'
+  sent#39 tok#2: 'ἔφαθ̓' -> 'ἔφαθʼ'
+  sent#40 tok#5: 'Κρονιωνι' -> 'Κρονίωνι'
+  sent#46 tok#10: 'θ̓' -> 'θʼ'
+  sent#47 tok#18: 'δώματ̓' -> 'δώματʼ'
+  sent#49 tok#4: 'ἐφράσαθ̓' -> 'ἐφράσαθʼ'
+  sent#51 tok#18: 'τ̓' -> 'τʼ'
+  sent#51 tok#22: 'τ̓' -> 'τʼ'
+  sent#57 tok#6: 'κατ̓' -> 'κατʼ'
+  sent#63 tok#5: 'θνητοὶ' -> 'θνητοί'
+  sent#63 tok#6: 'τ̓' -> 'τʼ'
+  sent#64 tok#10: 'δώματ̓' -> 'δώματʼ'
+  sent#65 tok#7: 'ὅτ̓' -> 'ὅτʼ'
+  sent#67 tok#13: 'τέρποντ̓' -> 'τέρποντʼ'
+  sent#68 tok#3: 'ὥσθ̓' -> 'ὥσθʼ'
+  sent#73 tok#7: 'γαῖ̓' -> 'γαῖʼ'
+  sent#73 tok#10: '-' -> '—'
+  sent#74 tok#6: '-' -> '—'
+  sent#74 tok#17: 'δώματ̓' -> 'δώματʼ'
+  sent#75 tok#9: 'ἐτρέφετ̓' -> 'ἐτρέφετʼ'
+  sent#76 tok#2: 'ὅτ̓' -> 'ὅτʼ'
+  sent#76 tok#16: 'ἄλγἐ' -> 'ἄλγεʼ'
+  sent#79 tok#7: 'γαῖ̓' -> 'γαῖʼ'
+  sent#79 tok#10: '-' -> '—'
+  sent#79 tok#25: '-' -> '—'
+  sent#87 tok#7: 'γαῖ̓' -> 'γαῖʼ'
+  sent#87 tok#11: 'ἔτ̓' -> 'ἔτʼ'
+  sent#87 tok#36: 'κατ̓' -> 'κατʼ'
+  sent#89 tok#1: 'ἔνθ̓' -> 'ἔνθʼ'
+  sent#89 tok#15: 'ἤθἐ' -> 'ἤθεʼ'
+  sent#93 tok#3: 'δεσμὸ]ν' -> 'δεσμὸν'
+  sent#93 tok#5: 'πα[τὴρ' -> 'πατὴρ'
+  sent#94 tok#4: 'ν]εάτοις' -> 'νεάτοις'
+  sent#95 tok#4: 'ἔτ̓' -> 'ἔτʼ'
+  sent#95 tok#5: 'ἄ]λλο' -> 'ἄλλο'
+  sent#97 tok#1: 'μηκέτ̓' -> 'μηκέτʼ'
+  sent#97 tok#2: 'ἔπειτ̓' -> 'ἔπειτʼ'
+  sent#99 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#102 tok#10: 'εὖτ̓' -> 'εὖτʼ'
+  sent#108 tok#10: 'τ̓' -> 'τʼ'
+  sent#112 tok#18: 'προλιπόντ̓' -> 'προλιπόντʼ'
+  sent#113 tok#6: 'θνητοῖσι' -> 'θνητοῖς'
+  sent#124 tok#5: 'τ̓' -> 'τʼ'
+  sent#125 tok#2: 'ἔφατ̓' -> 'ἔφατʼ'
+  sent#128 tok#10: 'θ̓' -> 'θʼ'
+  sent#136 tok#8: 'ποτ̓' -> 'ποτʼ'
+  sent#137 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#137 tok#4: 'μετ̓' -> 'μετʼ'
+  sent#148 tok#4: 'ἤ' -> 'ἢ'
+  sent#148 tok#10: 'ἤ' -> 'ἢ'
+  sent#148 tok#14: 'ἤ' -> 'ἢ'
+  sent#153 tok#12: 'τ̓' -> 'τʼ'
+  sent#154 tok#2: 'ῥ̓' -> 'ῥʼ'
+  sent#154 tok#3: 'ὁπότ̓' -> 'ὁπότʼ'
+  sent#154 tok#17: 'γηρύετ̓' -> 'γηρύετʼ'
+  sent#155 tok#7: '?' -> '†'
+  sent#158 tok#4: 'μήτ̓' -> 'μήτʼ'
+  sent#158 tok#10: 'μήτ̓' -> 'μήτʼ'
+  sent#162 tok#21: 'μετ̓' -> 'μετʼ'
+  sent#164 tok#7: 'δίκαἰ' -> 'δίκαιʼ'
+  sent#164 tok#13: 'τ̓' -> 'τʼ'
+  sent#165 tok#19: 'τ̓' -> 'τʼ'
+  sent#175 tok#4: 'μήτ̓' -> 'μήτʼ'
+  sent#175 tok#7: 'μήτ̓' -> 'μήτʼ'
+  sent#175 tok#16: 'αὖτ̓' -> 'αὖτʼ'
+  sent#180 tok#6: 'τ̓' -> 'τʼ'
+  sent#182 tok#8: 'τ̓' -> 'τʼ'
+  sent#186 tok#12: 'τ̓' -> 'τʼ'
+  sent#187 tok#1: 'αἰδὼς' -> 'αἰδώς'
+  sent#189 tok#11: 'ἤ' -> 'ἢ'
+  sent#189 tok#23: 'εὖτ̓' -> 'εὖτʼ'
+  sent#189 tok#33: 'τ̓' -> 'τʼ'
+  sent#190 tok#15: 'τ̓' -> 'τʼ'
+  sent#191 tok#4: 'θ̓' -> 'θʼ'
+  sent#192 tok#13: 'ἀντ̓' -> 'ἀντʼ'
+  sent#195 tok#9: 'ὅτ̓' -> 'ὅτʼ'
+  sent#195 tok#12: 'ὅτ̓' -> 'ὅτʼ'
+  sent#196 tok#2: 'φιλέοντ̓' -> 'φιλέοντʼ'
+  sent#199 tok#6: 'τ̓' -> 'τʼ'
+  sent#200 tok#6: 'τ̓' -> 'τʼ'
+  sent#201 tok#5: 'ἀπόλοιτ̓' -> 'ἀπόλοιτʼ'
+  sent#212 tok#11: 'τοῦτ̓' -> 'τοῦτʼ'
+  sent#222 tok#6: 'πέποιθ̓' -> 'πέποιθʼ'
+  sent#228 tok#4: 'ἄρχεσθ̓' -> 'ἄρχεσθʼ'
+  sent#230 tok#14: 'τ̓' -> 'τʼ'
+  sent#231 tok#15: 'πάντ̓' -> 'πάντʼ'
+  sent#232 tok#4: 'ὥρἰ' -> 'ὥριʼ'
+  sent#235 tok#9: 'τ̓' -> 'τʼ'
+  sent#239 tok#9: 'τ̓' -> 'τʼ'
+  sent#240 tok#7: 'τ̓' -> 'τʼ'
+  sent#240 tok#24: 'πάντ̓' -> 'πάντʼ'
+  sent#241 tok#5: 'τ̓' -> 'τʼ'
+  sent#254 tok#5: 'ὅτ̓' -> 'ὅτʼ'
+  sent#254 tok#12: 'κατ̓' -> 'κατʼ'
+  sent#254 tok#16: 'κατ̓' -> 'κατʼ'
+  sent#255 tok#8: 'εὖτ̓' -> 'εὖτʼ'
+  sent#256 tok#6: 'ποησάμενος' -> 'πονησάμενος'
+  sent#262 tok#23: 'μεθ̓' -> 'μεθʼ'
+  sent#264 tok#4: 'μεθ̓' -> 'μεθʼ'
+  sent#265 tok#4: 'εὖτ̓' -> 'εὖτʼ'
+  sent#266 tok#1: 'ἥτ̓' -> 'ἥτʼ'
+  sent#274 tok#4: 'δούρατ̓' -> 'δούρατʼ'
+  sent#275 tok#1: 'εὖτ̓' -> 'εὖτʼ'
+  sent#275 tok#4: 'πρώτιστ̓' -> 'πρώτιστʼ'
+  sent#275 tok#7: 'φανείῆ' -> 'φανείῃ'
+  sent#275 tok#10: 'τότ̓' -> 'τότʼ'
+  sent#275 tok#22: 'καθ̓' -> 'καθʼ'
+  sent#280 tok#6: 'θ̓' -> 'θʼ'
+  sent#280 tok#17: 'πρῶτ̓' -> 'πρῶτʼ'
+  sent#280 tok#20: 'ὅτ̓' -> 'ὅτʼ'
+  sent#283 tok#3: 'ἁδροσύνη' -> 'ἀδροσύνῃ'
+  sent#290 tok#4: 'ὄψ̓' -> 'ὄψʼ'
+  sent#291 tok#26: 'μήτ̓' -> 'μήτʼ'
+  sent#291 tok#31: 'μήτ̓' -> 'μήτʼ'
+  sent#294 tok#4: 'μήτ̓' -> 'μήτʼ'
+  sent#294 tok#8: 'μήθ̓' -> 'μήθʼ'
+  sent#295 tok#33: 'πενίη' -> 'πενίῃ'
+  sent#300 tok#17: 'αἵτ̓' -> 'αἵτʼ'
+  sent#303 tok#8: 'μέζἐ' -> 'μέζεʼ'
+  sent#306 tok#3: 'δἰ' -> 'διʼ'
+  sent#310 tok#17: 'ὅτ̓' -> 'ὅτʼ'
+  sent#310 tok#23: 'τ̓' -> 'τʼ'
+  sent#315 tok#8: 'τ̓' -> 'τʼ'
+  sent#320 tok#5: 'ὁπότ̓' -> 'ὁπότʼ'
+  sent#321 tok#8: 'ἵν̓' -> 'ἵνʼ'
+  sent#322 tok#3: 'τ̓' -> 'τʼ'
+  sent#323 tok#15: 'θ̓' -> 'θʼ'
+  sent#323 tok#20: 'ἄλλοτ̓' -> 'ἄλλοτʼ'
+  sent#324 tok#21: 'θ̓' -> 'θʼ'
+  sent#330 tok#1: 'εὖτ̓' -> 'εὖτʼ'
+  sent#330 tok#15: 'τότ̓' -> 'τότʼ'
+  sent#331 tok#3: 'μέτ̓' -> 'μέτʼ'
+  sent#334 tok#2: 'ὁπότ̓' -> 'ὁπότʼ'
+  sent#336 tok#14: 'τ̓' -> 'τʼ'
+  sent#338 tok#28: 'τ̓' -> 'τʼ'
+  sent#339 tok#4: 'τ̓' -> 'τʼ'
+  sent#339 tok#12: 'καταχεύετ̓' -> 'καταχεύετʼ'
+  sent#339 tok#24: 'τ̓' -> 'τʼ'
+  sent#340 tok#2: 'τότ̓' -> 'τότʼ'
+  sent#340 tok#13: 'τ̓' -> 'τʼ'
+  sent#340 tok#16: 'τ̓' -> 'τʼ'
+  sent#340 tok#28: 'τ̓' -> 'τʼ'
+  sent#341 tok#22: 'τ̓' -> 'τʼ'
+  sent#341 tok#27: 'ἥτ̓' -> 'ἥτʼ'
+  sent#342 tok#9: 'εὖτ̓' -> 'εὖτʼ'
+  sent#344 tok#12: 'τ̓' -> 'τʼ'
+  sent#346 tok#16: 'χρήμαθ̓' -> 'χρήμαθʼ'
+  sent#349 tok#1: 'εὖτ̓' -> 'εὖτʼ'
+  sent#350 tok#5: 'τ̓' -> 'τʼ'
+  sent#350 tok#18: 'ἄγγἐ' -> 'ἄγγεʼ'
+  sent#351 tok#5: 'θ̓' -> 'θʼ'
+  sent#351 tok#14: 'τότ̓' -> 'τότʼ'
+  sent#351 tok#15: 'ἔπειτ̓' -> 'ἔπειτʼ'
+  sent#353 tok#9: 'εὖτ̓' -> 'εὖτʼ'
+  sent#359 tok#15: 'ἵν̓' -> 'ἵνʼ'
+  sent#362 tok#18: 'ποτ̓' -> 'ποτʼ'
+  sent#364 tok#1: 'νῆ̓' -> 'νῆʼ'
+  sent#364 tok#5: 'μεγάλη' -> 'μεγάλῃ'
+  sent#366 tok#1: 'εὖτ̓' -> 'εὖτʼ'
+  sent#367 tok#19: 'ποτ̓' -> 'ποτʼ'
+  sent#368 tok#9: 'τ̓' -> 'τʼ'
+  sent#376 tok#7: 'τ̓' -> 'τʼ'
+  sent#378 tok#4: 'τ̓' -> 'τʼ'
+  sent#379 tok#11: 'τ̓' -> 'τʼ'
+  sent#380 tok#10: 'χειμῶν̓' -> 'χειμῶνʼ'
+  sent#380 tok#17: 'ὅστ̓' -> 'ὅστʼ'
+  sent#382 tok#7: 'τ̓' -> 'τʼ'
+  sent#399 tok#15: 'μήτ̓' -> 'μήτʼ'
+  sent#404 tok#7: 'ληίζετ̓' -> 'ληίζετʼ'
+  sent#405 tok#1: 'ἥτ̓' -> 'ἥτʼ'
+  sent#411 tok#6: 'ἡγῆτ̓' -> 'ἡγῆτʼ'
+  sent#414 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#414 tok#7: 'τέτλαθ̓' -> 'τέτλαθʼ'
+  sent#416 tok#2: 'δέ' -> 'δὲ'
+  sent#418 tok#6: 'τ̓' -> 'τʼ'
+  sent#419 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#420 tok#9: 'τ̓' -> 'τʼ'
+  sent#421 tok#3: 'ἄντ̓' -> 'ἄντʼ'
+  sent#422 tok#9: 'τ̓' -> 'τʼ'
+  sent#423 tok#1: 'μήτ̓' -> 'μήτʼ'
+  sent#423 tok#4: 'μήτ̓' -> 'μήτʼ'
+  sent#428 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#429 tok#4: 'κακότητ̓' -> 'κακότητʼ'
+  sent#431 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#436 tok#14: 'ὅτ̓' -> 'ὅτʼ'
+  sent#439 tok#5: 'ἔστ̓' -> 'ἔστʼ'
+  sent#442 tok#2: 'ποτ̓' -> 'ποτʼ'
+  sent#451 tok#5: 'τ̓' -> 'τʼ'
+  sent#452 tok#9: 'εὖτ̓' -> 'εὖτʼ'
+  sent#456 tok#4: 'τ̓' -> 'τʼ'
+  sent#458 tok#5: 'νήματ̓' -> 'νήματʼ'
+  sent#463 tok#10: 'πρῶτ̓' -> 'πρῶτʼ'
+  sent#463 tok#12: 'τ̓' -> 'τʼ'
+  sent#464 tok#18: 'τ̓' -> 'τʼ'
+  sent#466 tok#8: 'θ̓' -> 'θʼ'
+  sent#466 tok#13: 'τ̓' -> 'τʼ'
+  sent#472 tok#7: 'θ̓' -> 'θʼ'
+  sent#472 tok#10: 'ἄλγἐ' -> 'ἄλγεʼ'
+  sent#476 tok#26: 'τ̓' -> 'τʼ'
+  sent#479 tok#4: 'θ̓' -> 'θʼ'
+  sent#479 tok#11: 'τ̓' -> 'τʼ'
+  sent#482 tok#3: 'τ̓' -> 'τʼ'
+  sent#485 tok#4: 'μετ̓' -> 'μετʼ'
+
+=== Ref corrections applied: 6679 (summary count only) ===
+
+=== Blocks needing manual review: 44 ===
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=41
+  [delete] conllu=[']']  xml=[]  assigned Ref=76
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=85
+  [delete] conllu=[']']  xml=[]  assigned Ref=93
+  [delete] conllu=[']']  xml=[]  assigned Ref=99
+  [delete] conllu=[']']  xml=[]  assigned Ref=125
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=129
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=129
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=135
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=136
+  [insert] conllu=[]  xml=[',']  assigned Ref=141
+  [delete] conllu=[']']  xml=[]  assigned Ref=169d
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=190
+  [replace] conllu=['οὔ', 'τʼ']  xml=['οὔτʼ']  assigned Ref=191
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=213
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=231
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=236
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=348
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=397
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=410
+  [replace] conllu=['οὐ', 'δʼ']  xml=['οὐδʼ']  assigned Ref=412
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=488
+  [insert] conllu=[]  xml=['μὴ']  assigned Ref=501
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=540
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=649
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=649
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=665
+  [replace] conllu=['οὔ', 'τʼ']  xml=['οὔτʼ']  assigned Ref=666
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=689
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=715
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=716
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=725
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=727
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=730
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=733
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=735
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=742
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=748
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=750
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=755
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=758
+  [replace] conllu=['μη', 'δʼ']  xml=['μηδʼ']  assigned Ref=759
+  [replace] conllu=['οὔ', 'τε']  xml=['οὔτε']  assigned Ref=784
+  [replace] conllu=['οὔ', 'τʼ']  xml=['οὔτʼ']  assigned Ref=784
+
+=== Rows with unexpected column count (separate issue, not fixed) ===
+  37	ἀγαγὼν	ἄγω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	26	orphan	25.1:advcl	_	Ref=140|gloss=leading
+  1	δαιμονίη	δαιμόνιος	ADJ a-s---fv-	Case=Voc|Gender=Fem|Number=Sing	4	vocative	_	Ref=202|SpaceAfter=No|gloss=wretched-one
+  11	ἄκρη	ἄκρος	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	acl:compl	10:acl	Ref=202|gloss=the-top
+  17	μέσση	μέσος	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	orphan	16.1:advcl	Ref=202|gloss=the-middle
+  5	ἑκὼν	ἑκών	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	Ref=274|gloss=willingly
+  14	νήκεστον	νήκεστος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	Ref=274|gloss=incurably
+  1	λείη	λεῖος	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	Ref=274|gloss=smooth
+  17	ἀχρήιος	ἀχρεῖος	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	Ref=274|gloss=useless
+  12	δῖον	δῖος	ADJ a-s---nv-	Case=Voc|Gender=Neut|Number=Sing	13	amod	_	Ref=274|gloss=divine
+  10.1	E10.1	_	_	_	_	_	_	8	acl:compl	_
+  9	ἐχθρὸν	ἐχθρός	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Ref=320|gloss=hostile
+  6	ἐγχώριον	ἐγχώριος	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	Ref=320|gloss=local
+  2	κακὸς	κακός	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Ref=320|gloss=bad
+  7	ἀγαθὸς	ἀγαθός	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=320|gloss=good
+  8	οὔτις	οὔτις	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	9	nsubj	_	Ref=320|gloss=no-one
+  2	ἀγαθή	ἀγαθός	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=320|SpaceAfter=No|gloss=good
+  6	κακή	κακός	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Ref=320|SpaceAfter=No|gloss=bad
+  10	αἴθοπα	αἶθοψ	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	Ref=320|gloss=blazing
+  5	σμικρὸν	σμικρός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=320|gloss=a-little
+  7	σμικρῷ	σμικρός	ADJ a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	8	iobj	_	Ref=320|gloss=little
+  16	μέγα	μέγας	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	19	xcomp	_	Ref=320|gloss=great
+  2	βέλτερον	βέλτερος	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=320|gloss=better
+  6	βλαβερὸν	βλαβερός	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	advcl	_	Ref=320|gloss=harmful
+  1	ἐσθλὸν	ἐσθλός	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=320|gloss=good-thing
+  1	δειλὴ	δειλός	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=320|gloss=poor
+  4	φίλῳ	φίλος	ADJ a-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	amod	_	Ref=370|gloss=dear
+  6	ἄρκιος	ἄρκιος	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=370|gloss=sure
+  6	πυγοστόλος	πυγοστόλος	ADJ a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Ref=370|gloss=bustle-gowned
+  8	αἱμύλα	αἱμύλος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	Ref=370|gloss=wily
+  11	τεὴν	τεός	DET a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	det	_	Ref=370|gloss=your
+  1	μουνογενὴς	μονογενής	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Ref=370|gloss=only-born
+  5	πατρώιον	πατρώιος	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	Ref=370|gloss=paternal
+  1	γηραιὸς	γηραιός	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	advcl:compl	_	Ref=370|gloss=aged
+  4	ἕτερον	ἕτερος	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	Ref=370|gloss=another
+  1	πλείων	πλείων	ADJ a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	Ref=370|gloss=greater
+  3	πλεόνων	πλείων	ADJ a-p---ngc	Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur	4	amod	_	Ref=370|gloss=of-more
+  6	μείζων	μέγας	ADJ a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	1	conj	_	Ref=370|gloss=greater
+  2	Ἀτλαγενέων	Ἀτλαγενής	ADJ a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	1	amod	_	Ref=370|gloss=Atlas-born
+  17	πρῶτα	πρῶτος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Plur	18	obl	_	Ref=370|gloss=first
+  16	βησσήεντα	βησσήεις	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	amod	_	Ref=370|SpaceAfter=No|gloss=wooded
+  22	πίονα	πίων	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	amod	_	Ref=370|gloss=rich
+  1	γυμνὸν	γυμνός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	Ref=370|gloss=naked
+  4	γυμνὸν	γυμνός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Ref=370|gloss=naked
+  8	γυμνὸν	γυμνός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	Ref=370|gloss=naked
+  14	ὥρια	ὥριος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	amod	_	Ref=370|gloss=timely
+  15	πάντ̓	πᾶς	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	amod	_	Ref=370|gloss=all
+  4	ὥρἰ	ὥριος	ADJ a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	acl:compl	_	Ref=370|gloss=in-season
+  13	ἀλλοτρίους	ἀλλότριος	ADJ a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	14	amod	_	Ref=370|gloss=other's
+  13	ἐτώσια	ἐτώσιος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	acl:compl	_	Ref=370|gloss=vain
+  14	πόλλʼ	πολύς	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	15	obj	_	Ref=370|gloss=much
+  1	ἀχρεῖος	ἀχρεῖος	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=370|gloss=useless
+  3	πρώτιστα	πρώτιστος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	orphan	0.1:obl	Ref=405|gloss=first-of-all
+  8	ἀροτῆρα	ἀροτήρ	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	amod	6:amod	Ref=405|gloss=plowing
+  10	κτητήν	κτητός	ADJ a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	appos	4:appos	Ref=405|SpaceAfter=No|gloss=acquired
+  24	πάντ̓	πᾶς	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	20	amod	20:amod	Ref=405|gloss=all
+  9	ἔνηφιν	ἔνος	ADJ a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	3	obl	_	Ref=405|SpaceAfter=No|gloss=day-after-tomorrow
+  3	ἐτωσιοεργὸς	ἐτωσιοεργός	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	4:amod	Ref=405|gloss=shiftless
+  3	ἀμβολιεργὸς	ἀμβολιεργός	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	Ref=405|gloss=procrastinating
+  5	ὀξέος	ὀξύς	ADJ a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	amod	6:amod	Ref=405|gloss=sharp
+  8	ἰδαλίμου	ἰδάλιμος	ADJ a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	amod	7:amod	Ref=405|SpaceAfter=No|gloss=wearisome
+  10	μετοπωρινὸν	μετοπωρινός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obj	11:obj	Ref=405|gloss=autumnal-rain
+  13	ἐρισθενέος	ἐρισθενής	ADJ a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	amod	12:amod	Ref=405|SpaceAfter=No|gloss=very-strong
+  18	βρότεος	βρότεος	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	amod	19:amod	Ref=405|gloss=mortal
+  21	ἐλαφρότερος	ἐλαφρός	ADJ a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	17	xcomp	17:xcomp	Ref=405|SpaceAfter=No|gloss=lighter
+  6	βαιὸν	βαιός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	Ref=405|gloss=a-little
+  9	κηριτρεφέων	κηριτρεφής	ADJ a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	amod	_	Ref=405|gloss=doom-nourished
+  12	ἠμάτιος	ἠμάτιος	ADJ a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	acl:compl	_	Ref=405|SpaceAfter=No|gloss=by-day
+  14	πλεῖον	πλείων	ADJ a-s---nac	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	18	obj	_	Ref=405|gloss=more
+  2	ἀδηκτοτάτη	ἄδηκτος	ADJ a-s---fns	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	3	xcomp	_	Ref=405|gloss=most-free-from-worm
+  5	ὥρια	ὥριος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	Ref=405|gloss=seasonal
+  3	τριπόδην	τρίπους	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	amod	_	Ref=405|gloss=three-foot
+  8	τρίπηχυν	τρίπηχυς	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	Ref=405|gloss=three-cubit
+  12	ἑπταπόδην	ἑπταπόδης	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	Ref=405|SpaceAfter=No|gloss=seven-foot
+  1	τρισπίθαμον	τρισπίθαμος	ADJ a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	Ref=405|gloss=three-span
+  5	δεκαδώρῳ	δεκάδωρος	ADJ a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	amod	_	Ref=405|gloss=ten-handbreadth
+  1	πόλλʼ	πολύς	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	3:amod	Ref=405|gloss=many
+  2	ἐπικαμπύλα	ἐπικαμπύλος	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	3:amod	Ref=405|gloss=curved
+  19	πρίνινον	πρίνινος	ADJ a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	Ref=405|SpaceAfter=No|gloss=of-holm-oak
+  5	ὀχυρώτατός	ὀχυρός	ADJ a-s---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	0	root	_	Ref=405|gloss=strongest
+  1	δοιὰ	δοιοί	ADJ a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	Ref=405|gloss=two
+  10	αὐτόγυον	αὐτόγυος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	amod	_	Ref=405|gloss=single-piece
+  12	πηκτόν	πηκτός	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	conj	_	Ref=405|SpaceAfter=No|gloss=joined
+  15	πολὺ	πολύς	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	advmod	_	Ref=405|gloss=much
+  16	λώιον	λωίων	ADJ a-s---nnc	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	3	advcl	_	Ref=405|gloss=better
+  3	ἕτερον	ἕτερος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	Ref=405|gloss=one
+  6	ἕτερόν	ἕτερος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Ref=405|gloss=the-other
+  5	ἀκιώτατοι	ἄκιος	ADJ a-p---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	0	root	_	Ref=405|gloss=most-durable
+  3	ἐνναετήρω	ἐνναέτηρος	ADJ a-d---ma-	Case=Acc|Gender=Masc|Number=Dual	1	amod	_	Ref=405|gloss=nine-year-old
+  4	ἄρσενε	ἄρσην	ADJ a-d---ma-	Case=Acc|Gender=Masc|Number=Dual	1	amod	_	Ref=405|gloss=male
+  11	ἀλαπαδνόν	ἀλαπαδνός	ADJ a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	advcl	_	Ref=405|SpaceAfter=No|gloss=weak
+  3	ἀρίστω	ἄριστος	ADJ a-d---mn-	Case=Nom|Gender=Masc|Number=Dual	0	root	_	Ref=405|SpaceAfter=No|gloss=best
+  16	ἐτώσιον	ἐτώσιος	ADJ a-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	acl:compl	_	Ref=405|gloss=uncompleted
