@@ -1,0 +1,58 @@
+{
+  "conllu_file": "/mnt/user-data/uploads/tlg0012_tlg001_daphne_perstbgl-grc1_1-6.conllu",
+  "xml_file": "/mnt/user-data/uploads/atmurray_iliad-sentalign-mod.xml",
+  "book_range": [
+    1,
+    6
+  ],
+  "conllu_sentence_count": 2231,
+  "xml_sentences_in_range": 2229,
+  "matched": 2230,
+  "duplicate_xml_ids": {},
+  "malformed_xml_n_attrs": [
+    "sent2274448b"
+  ],
+  "auto_corrected_duplicate_sent_ids": [
+    {
+      "original_id": "2274106d",
+      "corrected_id": "2274106e",
+      "ref": "1.6",
+      "block_text": "# text = ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς."
+    },
+    {
+      "original_id": "2274199",
+      "corrected_id": "2274199a",
+      "ref": "1.184",
+      "block_text": "# text = ἐγὼ δέ κ' ἄγω Βρισηΐδα καλλιπάρῃον αὐτὸς ἰὼν κλισίην δὲ τὸ σὸν γέρας ὄφρ' ἐῢ εἰδῇς ὅσσον φέρτερός εἰμι σέθεν, στυγέῃ δὲ καὶ ἄλλος ἶσον ἐμοὶ φάσθαι καὶ ὁμοιωθήμεναι ἄντην."
+    },
+    {
+      "original_id": "2274201",
+      "corrected_id": "2274201a",
+      "ref": "1.188",
+      "block_text": "# text = ἐν δέ οἱ ἦτορ στήθεσσιν λασίοισι διάνδιχα μερμήριξεν, ἢ ὅ γε φάσγανον ὀξὺ ἐρυσσάμενος παρὰ μηροῦ τοὺς μὲν ἀναστήσειεν, ὃ δ' Ἀτρεΐδην ἐναρίζοι, ἦε χόλον παύσειεν ἐρητύσειέ τε θυμόν."
+    },
+    {
+      "original_id": "2274300",
+      "corrected_id": "2274300a",
+      "ref": "1.343",
+      "block_text": "# text = οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ ὀπίσσω, ὅππως οἱ παρὰ νηυσὶ σόοι μαχέοιντο Ἀχαιοί."
+    },
+    {
+      "original_id": "2274320",
+      "corrected_id": "2274320a",
+      "ref": "1.374",
+      "block_text": "# text = καὶ λίσσετο πάντας Ἀχαιούς, Ἀτρεΐδα δὲ μάλιστα δύω κοσμήτορε λαῶν."
+    },
+    {
+      "original_id": "2274329",
+      "corrected_id": "2274329a",
+      "ref": "1.390",
+      "block_text": "# text = ἄγουσι δὲ δῶρα ἄνακτι·"
+    }
+  ],
+  "unresolved_duplicate_sent_ids": [],
+  "xml_sentences_with_no_conllu_match": [],
+  "conllu_sentences_with_no_xml_match": [
+    "2276106-bis"
+  ]
+}

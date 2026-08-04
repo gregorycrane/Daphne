@@ -1,0 +1,62 @@
+{
+  "conllu_file": "/Users/gcrane/github/Daphne/data/annotation/latest/tlg0012/tlg002/tlg0012.tlg002.daphne_tbgloss-grc1.1-6.conllu",
+  "xml_file": "/Users/gcrane/github/Homerica/atmurray.odyssey-sentalign-mod.xml",
+  "credits_xml_file": "/Users/gcrane/github/treebank_data/v2.0/Greek/nonArethusaCompliant/tlg0012.tlg002.perseus-grc1.tb.xml",
+  "book_range": [
+    1,
+    6
+  ],
+  "conllu_sentence_count": 1676,
+  "xml_sentences_in_range": 1676,
+  "translation_matched": 1676,
+  "translation_already_present": 0,
+  "duplicate_xml_ids": {},
+  "malformed_xml_n_attrs": [],
+  "xml_splits_folded_into_conllu_sentence": [
+    {
+      "base_id": "2186757",
+      "folded_in": [
+        "2186757a"
+      ]
+    },
+    {
+      "base_id": "2186773",
+      "folded_in": [
+        "2186773a"
+      ]
+    },
+    {
+      "base_id": "2186776",
+      "folded_in": [
+        "2186776a"
+      ]
+    },
+    {
+      "base_id": "2186785",
+      "folded_in": [
+        "2186785a"
+      ]
+    },
+    {
+      "base_id": "2186789",
+      "folded_in": [
+        "2186789a"
+      ]
+    },
+    {
+      "base_id": "2186797",
+      "folded_in": [
+        "2186797a"
+      ]
+    }
+  ],
+  "auto_corrected_duplicate_sent_ids": [],
+  "unresolved_duplicate_sent_ids": [],
+  "xml_sentences_with_no_conllu_match": [],
+  "conllu_sentences_with_no_xml_match": [],
+  "credits_header_already_present": false,
+  "credits_header_added": true,
+  "sentannotators_added": 1676,
+  "sentannotators_already_present": 0,
+  "sentannotators_missing": []
+}

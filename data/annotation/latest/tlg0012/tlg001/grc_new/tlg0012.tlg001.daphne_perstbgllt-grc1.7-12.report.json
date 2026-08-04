@@ -1,0 +1,26 @@
+{
+  "conllu_file": "/Users/gcrane/github/Daphne/data/annotation/latest/tlg0012/tlg001/tlg0012.tlg001.daphne_perstbgl-grc1.7-12.conllu",
+  "xml_file": "/Users/gcrane/github/Homerica/atmurray.iliad-sentalign-mod.xml",
+  "book_range": [
+    7,
+    12
+  ],
+  "conllu_sentence_count": 1932,
+  "xml_sentences_in_range": 1931,
+  "matched": 1929,
+  "duplicate_xml_ids": {},
+  "malformed_xml_n_attrs": [
+    "sent2274448b"
+  ],
+  "auto_corrected_duplicate_sent_ids": [],
+  "unresolved_duplicate_sent_ids": [],
+  "xml_sentences_with_no_conllu_match": [
+    "2276739a",
+    "2276990a"
+  ],
+  "conllu_sentences_with_no_xml_match": [
+    "2277054-bis",
+    "2277153-bis",
+    "2277679-bis"
+  ]
+}
